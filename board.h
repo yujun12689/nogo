@@ -212,6 +212,11 @@ public:
 	void rotate_left() { transpose(); reflect_horizontal(); } // counterclockwise
 	void reverse() { reflect_horizontal(); reflect_vertical(); }
 
+	//get stone -test 1128
+	grid get_stone(){
+		return stone;
+	}
+
 public:
 	friend std::ostream& operator <<(std::ostream& out, const board& b) {
 		std::ios ff(nullptr);
