@@ -5,9 +5,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
- 
 
-# Make data base, printed on Tue Dec 14 11:35:43 2021
+# Make data base, printed on Tue Dec 14 12:10:19 2021
 
 # Variables
 
@@ -60,7 +59,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-86f59f05-6e2e-4eea-96d3-0bd7016639ef-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-156cfdd1-65a1-4eee-8bac-8541fa8a5bdc-sock
 # environment
 VSCODE_CWD = C:\Users\Jun\AppData\Local\Programs\Microsoft VS Code
 # default
@@ -86,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_28436_USWPSZTBOHFKTLFJ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1808_ZHCCLSDUJCLEUYEW
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -210,7 +209,7 @@ PROCESSOR_LEVEL = 25
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 28436
+VSCODE_PID = 1808
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-BGVQGKK3
 # variable set hash-table stats:
@@ -222,9 +221,9 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-BGVQGKK3
 
 # Directories
 
-# . (key c:/Users/Jun/Desktop/��j/�q���什�z��/pj4/pj-4-code-v1, mtime 1639452933): 11 files, no impossibilities.
+# . (key c:/Users/Jun/Desktop/��j/�q���什�z��/pj4/pj-4-code-v1, mtime 1639452991): 12 files, no impossibilities.
 
-# 11 files, no impossibilities in 1 directories.
+# 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -294,12 +293,12 @@ clean:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 15 / storage = 117 B / avg = 7 B
-# current buf: size = 8162 B / used = 117 B / count = 15 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 16 / storage = 122 B / avg = 7 B
+# current buf: size = 8162 B / used = 122 B / count = 16 / avg = 7 B
 
-# strcache performance: lookups = 22 / hit rate = 31%
+# strcache performance: lookups = 23 / hit rate = 30%
 # hash-table stats:
-# Load=15/8192=0%, Rehash=0, Collisions=1/22=5%
-# Finished Make data base on Tue Dec 14 11:35:43 2021
+# Load=16/8192=0%, Rehash=0, Collisions=1/23=4%
+# Finished Make data base on Tue Dec 14 12:10:19 2021
 
  
