@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/Jun/Desktop/��j/�q���什�z��/pj4/pj-4-code-v1'
+g++ -std=c++11 -O3 -g -Wall -fmessage-length=0 -o nogo nogo.cpp
+make.exe: Leaving directory 'c:/Users/Jun/Desktop/��j/�q���什�z��/pj4/pj-4-code-v1'
+ 
